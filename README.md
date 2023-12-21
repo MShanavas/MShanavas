@@ -31,7 +31,7 @@ Configured and managed Kubernetes clusters for seamless container orchestration 
 
 Let's connect and discuss exciting opportunities:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mshanavas)
+- LinkedIn: [MShanavas](https://www.linkedin.com/in/mshanavas)
 - Email: shanavasshekkeer@gmail.com
 
 Excited to collaborate! 🤝
