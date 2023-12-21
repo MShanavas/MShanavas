@@ -7,7 +7,7 @@ ADR;TYPE=WORK:
 TITLE:DevOps
 TEL;TYPE=CELL:0097430334496
 TEL;TYPE=WORK:
-TEL;TYPE=HOME:00917559843619
+TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:Shanavas.Shekkeer@gmail.com
 URL;TYPE=Digital Business Card:https://github.io/MShanavas/SM
@@ -16,6 +16,6 @@ URL;TYPE=WhatsApp:https://wa.link/5409k3
 URL;TYPE=GitHub:https://github.com/Mshanavas
 URL;TYPE=LinkedIn:https://linkedin.com/in/mshanavas
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:Implemented end-to-end automated deployment pipelines using Jenkins, Docker, and Kubernetes, reducing deployment times by X% and ensuring consistent releases. Applied Infrastructure as Code principles with Terraform for scalable and version-controlled resource provisioning. Established CI/CD pipelines, fostering collaboration and accelerating time-to-market. Orchestrated containerized applications with Kubernetes, optimizing resource utilization and ensuring high availability in a microservices architecture.
-UID:EnBizCard-100831846
+NOTE:Implemented end-to-end automated deployment pipelines using Jenkins, Docker, and Kubernetes, reducing deployment times by 100% and ensuring consistent releases. Applied Infrastructure as Code principles with Terraform for scalable and version-controlled resource provisioning. Established CI/CD pipelines, fostering collaboration and accelerating time-to-market. Orchestrated containerized applications with Kubernetes, optimizing resource utilization and ensuring high availability in a microservices architecture.
+UID:EnBizCard-100226882
 END:VCARD
