@@ -26,17 +26,12 @@ I'm a DevOps enthusiast with expertise in:
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-plain.svg"/>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg"/>
 <img align="left" alt="Azure DevOps" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg"/>
-<img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/prometheus/prometheus-plain.svg"/>
-<img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-plain.svg"/>
-<img align="left" alt="ELK Stack" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/elastic/elastic-original.svg"/>
-<img align="left" alt="AWS CloudFormation" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg"/>
-<img align="left" alt="Puppet" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/puppet/puppet-plain.svg"/>
-<img align="left" alt="Chef" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/chef/chef-plain.svg"/>
-<img align="left" alt="Nagios" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nagios/nagios-plain.svg"/>
-<img align="left" alt="Zabbix" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/zabbix/zabbix-plain.svg"/>
-<img align="left" alt="Shell Scripting" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg"/>
-<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/powershell/powershell-plain.svg"/>
-<img align="left" alt="VMware" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vmware/vmware-plain.svg"/>
+<img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" />
+<img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/powershell/powershell-original.svg" />
+<img align="left" alt="VMware" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vmware/vmware-original.svg" />
+<img align="left" alt="Zabbix" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/zabbix/zabbix-original.svg" />
+<img align="left" alt="Nagios" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nagios/nagios-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg"/>
 
 #
