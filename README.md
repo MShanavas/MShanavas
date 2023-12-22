@@ -30,7 +30,10 @@ I'm a DevOps enthusiast with expertise in:
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="CentOS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/centos/centos-original.svg" />
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows/windows-plain.svg" />
+<img align="left" alt="Google Cloud Platform" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Vagrant" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" />
+<img align="left" alt="CircleCI" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/circleci/circleci-plain.svg" />
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" />
 
 #
 
