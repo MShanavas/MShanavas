@@ -16,28 +16,30 @@ I'm a DevOps enthusiast with expertise in:
 
 ## 🧰 Languages and Tools
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" />
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg"/>
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg"/>
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg"/>
-<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg"/>
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ansible/ansible-original.svg"/>
-<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-plain.svg"/>
-<img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" />
-<img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/prometheus/prometheus-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
-<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" />
-<img align="left" alt="CentOS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/centos/centos-original.svg" />
-<img align="left" alt="Google Cloud Platform" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="Vagrant" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" />
-<img align="left" alt="CircleCI" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/circleci/circleci-plain.svg" />
-<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+<p align="center">
+  <img alt="Bash" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" />
+  <img alt="Azure" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg"/>
+  <img alt="AWS" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg"/>
+  <img alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg"/>
+  <img alt="Jenkins" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg"/>
+  <img alt="Kubernetes" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg"/>
+  <img alt="Ansible" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ansible/ansible-original.svg"/>
+  <img alt="Terraform" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-plain.svg"/>
+  <img alt="Grafana" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" />
+  <img alt="Prometheus" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/prometheus/prometheus-original.svg" />
+  <img alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
+  <img alt="Linux" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
+  <img alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" />
+  <img alt="CentOS" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/centos/centos-original.svg" />
+  <img alt="Google Cloud Platform" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" />
+  <img alt="Vagrant" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vagrant/vagrant-original.svg" />
+  <img alt="CircleCI" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/circleci/circleci-plain.svg" />
+  <img alt="GitLab" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" />
+  <img alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+</p>
 
-#
+##
 
 ## Projects 🚀
 
@@ -57,7 +59,9 @@ Configured and managed Kubernetes clusters for seamless container orchestration 
 
 Let's connect and discuss exciting opportunities:
 
-- LinkedIn: [MShanavas](https://www.linkedin.com/in/mshanavas)
-- Email: shanavasshekkeer@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-MShanavas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mshanavas)
+- [![Email](https://img.shields.io/badge/Email-shanavasshekkeer%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shanavasshekkeer@gmail.com)
+- [![Website](https://img.shields.io/badge/Website-yourwebsite.com-green?style=for-the-badge&logo=google-chrome)](https://mshanavas.github.io/MShanavas/)
+
 
 Excited to collaborate! 🤝
