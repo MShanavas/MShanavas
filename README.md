@@ -61,7 +61,7 @@ Let's connect and discuss exciting opportunities:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-MShanavas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mshanavas)
 - [![Email](https://img.shields.io/badge/Email-shanavasshekkeer%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shanavasshekkeer@gmail.com)
-- [![Website](https://img.shields.io/badge/Website-yourwebsite.com-green?style=for-the-badge&logo=google-chrome)](https://mshanavas.github.io/MShanavas/)
+- [![Website](https://img.shields.io/badge/Website-Github.io-green?style=for-the-badge&logo=google-chrome)](https://mshanavas.github.io/MShanavas/)
 
 
 Excited to collaborate! 🤝
